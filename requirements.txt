@@ -1,0 +1,6 @@
+nextcord
+wavelink
+pymongo
+google-search-results
+animec
+pillow

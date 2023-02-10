@@ -1,0 +1,12 @@
+{
+  "TOKEN": "YOUR-BOT-TOKEN",
+  "OWNERSHIP": [
+    {
+      "OWNER": 697323031919591454,
+      "DEVELOPERS": 840202397942808637,
+      "LICENSE": "BSD-3-Clause license",
+      "VERSION": "1.0",
+      "TAGS": ["bar", "discord", "nextcord", "python", "bot"]
+    }
+  ]
+}

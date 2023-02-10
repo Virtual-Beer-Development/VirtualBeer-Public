@@ -1,0 +1,8 @@
+{
+    "SPOTIFY_CONFIG": {
+        "CLIENT_USER": "SPOTIFY-CONFIG-USER",
+        "CLIENT_ID": "SPOTIFY-CONFIG-USERID",
+        "CLIENT_SECRET": "SPOTIFY-CONFIG-SECRET",
+        "CALLBACK_URL": "http://google.com/callback/"
+    }
+}
